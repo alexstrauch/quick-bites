@@ -249,4 +249,14 @@ Your go-to app for discovering quick and delicious recipes.
                 return
             new_recipe['meal_type'] = meal_type
 
+            ingredients = input(
+                "Enter the ingredients (comma-separated, e.g., '1 cup flour, "
+                "1 tablespoon sugar, 1 cup almond milk') "
+                "or type 'q' to quit: \n"
+            ).strip()
+            if ingredients.lower() == 'q':
+                print("Thank you for using Quick Bites. Goodbye!\n")
+                return
+            new_recipe['ingredients'] = ingredients.split(',')
+
             
