@@ -136,4 +136,6 @@ Your go-to app for discovering quick and delicious recipes.
                 for i, meal in enumerate(meal_types, start=1):
                     print(f"{i}. {meal}")
 
+                meal = input("Enter the number of your choice: \n").strip()
+
                 
