@@ -202,4 +202,8 @@ Your go-to app for discovering quick and delicious recipes.
                     print("Thank you for using Quick Bites. Goodbye!\n")
                     return
 
-                
+                # If input is invalid, prompt the user again
+                else:
+                    print("Invalid. Enter 'yes', 'no', or 'q' to quit.\n")
+
+        
