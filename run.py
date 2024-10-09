@@ -142,4 +142,10 @@ Your go-to app for discovering quick and delicious recipes.
                     print("Thank you for using Quick Bites. Goodbye!\n")
                     return
 
-                
+                if meal.isdigit() and 1 <= int(meal) <= len(meal_types):
+                    selected_meal = meal_types[int(meal) - 1]
+                    break
+                else:
+                    print("Invalid choice. Please try again.\n")
+
+            
