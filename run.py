@@ -117,3 +117,11 @@ Your go-to app for discovering quick and delicious recipes.
 
 """)
 
+    while True:
+        print("Please select an option (or type 'q' to quit):")
+        print("1. Find a recipe")
+        print("2. Add a new recipe")
+
+        choice = input("Enter the number of your choice: \n").strip()
+
+        
