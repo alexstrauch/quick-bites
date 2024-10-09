@@ -128,4 +128,12 @@ Your go-to app for discovering quick and delicious recipes.
             print("Thank you for using Quick Bites. Goodbye!\n")
             return
         
-        
+        if choice == '1':
+            # Show meal types to the user and ensure valid selection
+            meal_types = ("Breakfast", "Lunch", "Dinner", "Dessert")
+            while True:
+                print("Please select a meal type (or type 'q' to quit):")
+                for i, meal in enumerate(meal_types, start=1):
+                    print(f"{i}. {meal}")
+
+                
