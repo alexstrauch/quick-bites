@@ -197,4 +197,9 @@ Your go-to app for discovering quick and delicious recipes.
                 if continue_input in ['yes', 'y']:
                     break
 
+                # If user inputs 'no' or 'n', exit the app
+                elif continue_input in ['no', 'n']:
+                    print("Thank you for using Quick Bites. Goodbye!\n")
+                    return
+
                 
