@@ -240,4 +240,13 @@ Your go-to app for discovering quick and delicious recipes.
                 return
             new_recipe['diet'] = diet
 
+            meal_type = input(
+                "Enter the meal type (e.g., 'Breakfast', 'Lunch', "
+                "'Dinner', 'Dessert') or type 'q' to quit: \n"
+            ).strip()
+            if meal_type.lower() == 'q':
+                print("Thank you for using Quick Bites. Goodbye!\n")
+                return
+            new_recipe['meal_type'] = meal_type
+
             
