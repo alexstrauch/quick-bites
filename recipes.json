@@ -44,5 +44,88 @@
             "Pepper"
         ],
         "instructions": "Slice the tomatoes and mozzarella. Arrange them on a plate, alternating slices. Top with basil leaves. Drizzle with olive oil and balsamic vinegar, then season with salt and pepper."
+    },
+    {
+        "name": "Vegetarian Tacos",
+        "cuisine": "Mexican",
+        "diet": "Vegetarian",
+        "meal_type": "Lunch",
+        "ingredients": [
+            "4 corn tortillas",
+            "1 can black beans",
+            "1 cup corn",
+            "1 avocado",
+            "1/2 cup salsa",
+            "Cilantro",
+            "Lime"
+        ],
+        "instructions": "Warm the tortillas. Mix beans, corn, and salsa. Fill tortillas with the mixture, top with avocado slices, cilantro, and a squeeze of lime."
+    },
+    {
+        "name": "Chickpea Curry",
+        "cuisine": "Indian",
+        "diet": "Vegan",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "1 can chickpeas",
+            "1 onion",
+            "2 garlic cloves",
+            "1 tbsp curry powder",
+            "1 can coconut milk",
+            "1 can diced tomatoes",
+            "Cilantro",
+            "Rice"
+        ],
+        "instructions": "Saute onion and garlic. Add curry powder, chickpeas, tomatoes, and coconut milk. Simmer for 15 minutes. Serve over rice and garnish with cilantro."
+    },
+    {
+        "name": "Gluten-Free Stir Fry",
+        "cuisine": "Chinese",
+        "diet": "Gluten-Free",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "1 lb chicken breast",
+            "1 bell pepper",
+            "1 onion",
+            "1 zucchini",
+            "1/4 cup gluten-free soy sauce",
+            "1 tbsp sesame oil",
+            "Rice"
+        ],
+        "instructions": "Cook chicken in sesame oil. Add sliced vegetables and stir fry for 5-7 minutes. Add gluten-free soy sauce and serve over rice."
+    },
+    {
+        "name": "Quinoa Salad",
+        "cuisine": "Mediterranean",
+        "diet": "Gluten-Free",
+        "meal_type": "Lunch",
+        "ingredients": [
+            "1 cup quinoa",
+            "1 cucumber",
+            "1 tomato",
+            "1/4 cup feta cheese",
+            "1/4 cup olives",
+            "Olive oil",
+            "Lemon juice",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": "Cook quinoa and let it cool. Chop vegetables and mix with quinoa. Add feta and olives. Drizzle with olive oil and lemon juice, season with salt and pepper."
+    },
+    {
+        "name": "Paleo Chicken Salad",
+        "cuisine": "American",
+        "diet": "Paleo",
+        "meal_type": "Lunch",
+        "ingredients": [
+            "2 chicken breasts",
+            "2 cups mixed greens",
+            "1/4 cup almonds",
+            "1/4 cup olive oil",
+            "1 tbsp lemon juice",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": "Grill chicken and slice it. Toss with mixed greens and almonds. Drizzle with olive oil and lemon juice, then season with salt and pepper."
     }
 ]
