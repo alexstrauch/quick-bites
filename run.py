@@ -277,3 +277,6 @@ Your go-to app for discovering quick and delicious recipes.
             # Handle invalid menu option
             print("Invalid choice. Please try again.\n")
 
+if __name__ == "__main__":
+    main()
+
