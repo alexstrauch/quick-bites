@@ -192,5 +192,104 @@
             "1 tsp vanilla extract"
         ],
         "instructions": "Mix all ingredients. Pour into a baking dish and bake at 350\u00b0F (175\u00b0C) for 20-25 minutes."
+    },
+    {
+        "name": "Vegan Chocolate Mousse",
+        "cuisine": "French",
+        "diet": "Vegan",
+        "meal_type": "Dessert",
+        "ingredients": [
+            "1 can coconut cream",
+            "1/2 cup dark chocolate chips",
+            "1 tbsp maple syrup"
+        ],
+        "instructions": "Melt chocolate. Whip coconut cream and maple syrup until fluffy. Fold in melted chocolate and chill for 1 hour."
+    },
+    {
+        "name": "Lentil Soup",
+        "cuisine": "Middle Eastern",
+        "diet": "Vegan",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "1 cup red lentils",
+            "1 onion",
+            "2 garlic cloves",
+            "1 carrot",
+            "1 tsp cumin",
+            "1 tsp turmeric",
+            "4 cups vegetable broth"
+        ],
+        "instructions": "Saute onion, garlic, and carrot. Add lentils, spices, and broth. Simmer for 25 minutes."
+    },
+    {
+        "name": "Grilled Salmon",
+        "cuisine": "American",
+        "diet": "Paleo",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "4 salmon fillets",
+            "Olive oil",
+            "Lemon",
+            "Garlic",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": "Brush salmon with olive oil and garlic. Grill for 4-5 minutes per side. Squeeze lemon juice over the top and season with salt and pepper."
+    },
+    {
+        "name": "Greek Yogurt Parfait",
+        "cuisine": "Greek",
+        "diet": "Vegetarian",
+        "meal_type": "Breakfast",
+        "ingredients": [
+            "1 cup Greek yogurt",
+            "1/2 cup granola",
+            "1/4 cup mixed berries",
+            "Honey"
+        ],
+        "instructions": "Layer yogurt, granola, and berries in a glass. Drizzle with honey and serve."
+    },
+    {
+        "name": "Coconut Curry Shrimp",
+        "cuisine": "Thai",
+        "diet": "Paleo",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "1 lb shrimp",
+            "1 can coconut milk",
+            "2 tbsp red curry paste",
+            "1 bell pepper",
+            "1 tbsp lime juice"
+        ],
+        "instructions": "Cook shrimp in a pan. Add coconut milk, curry paste, and sliced bell pepper. Simmer for 5 minutes and stir in lime juice before serving."
+    },
+    {
+        "name": "Zucchini Noodles",
+        "cuisine": "Italian",
+        "diet": "Vegan",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "2 zucchinis",
+            "1 cup marinara sauce",
+            "1/4 cup nutritional yeast",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": "Spiralize the zucchinis. Saute in a pan until tender. Add marinara sauce, nutritional yeast, and season with salt and pepper."
+    },
+    {
+        "name": "Stuffed Bell Peppers",
+        "cuisine": "Mexican",
+        "diet": "Vegetarian",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "4 bell peppers",
+            "1 cup cooked rice",
+            "1 can black beans",
+            "1 cup corn",
+            "1 cup salsa",
+            "Cheese (optional)"
+        ],
+        "instructions": "Preheat oven to 375\u00b0F (190\u00b0C). Mix rice, beans, corn, and salsa. Stuff the mixture into halved bell peppers. Top with cheese if desired. Bake for 25-30 minutes."
     }
 ]
