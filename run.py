@@ -62,3 +62,25 @@ class RecipeGenerator:
         if not filtered_recipes:
             return None
         return random.choice(filtered_recipes)
+
+    def display_recipe(self, recipe):
+        """
+        Displays the selected recipe if found, otherwise displays a message.
+
+        If a recipe is found, it displays the recipe's name, cuisine, diet,
+        meal type, ingredients, and instructions.
+        If no recipe is found, it displays a message.
+        """
+        if recipe:
+            print(f"\nRecipe: {recipe['name']}\n")
+            print(f"Cuisine: {recipe['cuisine']}\n")
+            print(f"Diet: {recipe['diet']}\n")
+            print(f"Meal Type: {recipe['meal_type']}\n")
+            print("Ingredients:")
+            for ingredient in recipe['ingredients']:
+                print(f"- {ingredient}")
+            print(f"\nInstructions: {recipe['instructions']}\n")
+        else:
+            print("No recipe found for the selected criteria.\n")
+
+    
