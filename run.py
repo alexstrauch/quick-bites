@@ -259,4 +259,14 @@ Your go-to app for discovering quick and delicious recipes.
                 return
             new_recipe['ingredients'] = ingredients.split(',')
 
+            instructions = input(
+                "Enter the instructions (e.g., 'Mix dry ingredients. "
+                "Add wet ingredients and stir until smooth.') "
+                "or type 'q' to quit: \n"
+            ).strip()
+            if instructions.lower() == 'q':
+                print("Thank you for using Quick Bites. Goodbye!\n")
+                return
+            new_recipe['instructions'] = instructions
+
             
