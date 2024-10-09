@@ -213,4 +213,13 @@ Your go-to app for discovering quick and delicious recipes.
             # Guide the user through adding a new recipe with instructions
             print("Please enter the following details for the new recipe:\n")
 
+            name = input(
+                "Enter the recipe name (e.g., 'Vegan Pancakes') "
+                "or type 'q' to quit: \n"
+            ).strip()
+            if name.lower() == 'q':
+                print("Thank you for using Quick Bites. Goodbye!\n")
+                return
+            new_recipe['name'] = name
+
             
