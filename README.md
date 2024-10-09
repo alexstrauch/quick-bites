@@ -44,3 +44,8 @@
 
 [Back to table of contents](#table-of-contents)
 
+## UX
+
+### User demographic
+
+- This project is intended for anyone who wants a convenient way to manage recipes and enhance their cooking experience, regardless of their culinary skill level.
