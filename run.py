@@ -273,4 +273,7 @@ Your go-to app for discovering quick and delicious recipes.
             generator.add_recipe(new_recipe)
             print("Recipe added successfully!")
 
-        
+        else:
+            # Handle invalid menu option
+            print("Invalid choice. Please try again.\n")
+
