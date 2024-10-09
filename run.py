@@ -148,4 +148,12 @@ Your go-to app for discovering quick and delicious recipes.
                 else:
                     print("Invalid choice. Please try again.\n")
 
+            # Filter cuisines available for the selected meal type
+            cuisines = set(
+                recipe['cuisine'] for recipe in generator.recipes
+                if recipe['meal_type'] == selected_meal
+            )
+            if not cuisines:
+                print("No cuisines available for the selected meal type.\n")
+                continue
             
