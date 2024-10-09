@@ -222,4 +222,13 @@ Your go-to app for discovering quick and delicious recipes.
                 return
             new_recipe['name'] = name
 
+            cuisine = input(
+                "Enter the cuisine (e.g., 'American', "
+                "'Italian', 'Mexican') or type 'q' to quit: \n"
+            ).strip()
+            if cuisine.lower() == 'q':
+                print("Thank you for using Quick Bites. Goodbye!\n")
+                return
+            new_recipe['cuisine'] = cuisine
+
             
