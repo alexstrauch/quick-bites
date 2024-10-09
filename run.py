@@ -175,4 +175,10 @@ Your go-to app for discovering quick and delicious recipes.
                 else:
                     print("Invalid choice. Please try again.\n")
 
+            # Display a random recipe that matches the user's choices
+            recipe = generator.get_random_recipe(
+                selected_meal,
+                selected_cuisine_type
+            )
+
             
