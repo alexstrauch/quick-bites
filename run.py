@@ -31,3 +31,13 @@ class RecipeGenerator:
 
         with open(self.recipe_file, 'w') as file:
             json.dump(self.recipes, file, indent=4)
+
+    def add_recipe(self, recipe):
+        """
+        Adds a recipe to the list of recipes and saves
+        the list to the recipe file.
+        """
+        self.recipes.append(recipe)
+        self.save_recipes()
+
+    
