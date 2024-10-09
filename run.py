@@ -53,6 +53,11 @@ class RecipeGenerator:
         ]
 
     def get_random_recipe(self, meal_type, cuisine_type):
+        """
+        Returns a random recipe from the list of recipes
+        filtered by meal_type and cuisine_type.
+        If no recipe is found, returns None.
+        """
         filtered_recipes = self.get_filtered_recipes(meal_type, cuisine_type)
         if not filtered_recipes:
             return None
