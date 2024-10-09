@@ -127,5 +127,70 @@
             "Pepper"
         ],
         "instructions": "Grill chicken and slice it. Toss with mixed greens and almonds. Drizzle with olive oil and lemon juice, then season with salt and pepper."
+    },
+    {
+        "name": "Shakshuka",
+        "cuisine": "Middle Eastern",
+        "diet": "Vegetarian",
+        "meal_type": "Breakfast",
+        "ingredients": [
+            "4 eggs",
+            "1 onion",
+            "1 bell pepper",
+            "1 can diced tomatoes",
+            "1 tbsp paprika",
+            "1 tsp cumin",
+            "Salt",
+            "Pepper",
+            "Cilantro"
+        ],
+        "instructions": "Saute onion and bell pepper. Add tomatoes, paprika, and cumin. Make wells in the sauce and crack eggs into them. Cover and cook until eggs set. Garnish with cilantro."
+    },
+    {
+        "name": "Pasta Primavera",
+        "cuisine": "Italian",
+        "diet": "Vegetarian",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "8 oz pasta",
+            "1 zucchini",
+            "1 bell pepper",
+            "1/2 cup cherry tomatoes",
+            "1/4 cup parmesan cheese",
+            "Olive oil",
+            "Garlic"
+        ],
+        "instructions": "Cook pasta. Saute garlic and vegetables in olive oil. Toss with pasta and top with parmesan."
+    },
+    {
+        "name": "Thai Coconut Soup",
+        "cuisine": "Thai",
+        "diet": "Vegan",
+        "meal_type": "Dinner",
+        "ingredients": [
+            "1 can coconut milk",
+            "2 cups vegetable broth",
+            "1 tbsp red curry paste",
+            "1 block tofu",
+            "1 cup mushrooms",
+            "Lime",
+            "Cilantro"
+        ],
+        "instructions": "Simmer coconut milk, broth, and curry paste. Add tofu and mushrooms. Cook for 10 minutes. Garnish with lime and cilantro."
+    },
+    {
+        "name": "Gluten-Free Brownies",
+        "cuisine": "American",
+        "diet": "Gluten-Free",
+        "meal_type": "Dessert",
+        "ingredients": [
+            "1/2 cup almond flour",
+            "1/2 cup cocoa powder",
+            "1/2 cup sugar",
+            "2 eggs",
+            "1/4 cup coconut oil",
+            "1 tsp vanilla extract"
+        ],
+        "instructions": "Mix all ingredients. Pour into a baking dish and bake at 350\u00b0F (175\u00b0C) for 20-25 minutes."
     }
 ]
