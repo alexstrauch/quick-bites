@@ -231,4 +231,13 @@ Your go-to app for discovering quick and delicious recipes.
                 return
             new_recipe['cuisine'] = cuisine
 
+            diet = input(
+                "Enter the diet type (e.g., 'Vegan', 'Gluten-Free', 'Paleo') "
+                "or type 'q' to quit: \n"
+            ).strip()
+            if diet.lower() == 'q':
+                print("Thank you for using Quick Bites. Goodbye!\n")
+                return
+            new_recipe['diet'] = diet
+
             
