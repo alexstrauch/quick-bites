@@ -269,4 +269,8 @@ Your go-to app for discovering quick and delicious recipes.
                 return
             new_recipe['instructions'] = instructions
 
-            
+            # Add the new recipe to the recipe list and save it
+            generator.add_recipe(new_recipe)
+            print("Recipe added successfully!")
+
+        
