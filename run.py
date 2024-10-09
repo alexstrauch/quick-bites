@@ -52,4 +52,8 @@ class RecipeGenerator:
             recipe['cuisine'].lower() == cuisine_type.lower()
         ]
 
-    
+    def get_random_recipe(self, meal_type, cuisine_type):
+        filtered_recipes = self.get_filtered_recipes(meal_type, cuisine_type)
+        if not filtered_recipes:
+            return None
+        return random.choice(filtered_recipes)
