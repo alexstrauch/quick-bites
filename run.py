@@ -156,4 +156,13 @@ Your go-to app for discovering quick and delicious recipes.
             if not cuisines:
                 print("No cuisines available for the selected meal type.\n")
                 continue
-            
+            # Allow the user to select a cuisine from the filtered list
+            while True:
+                print
+                (f"\nSelect a cuisine for {selected_meal} (or 'q' to quit):")
+                for i, cuisine in enumerate(cuisines, start=1):
+                    print(f"{i}. {cuisine}")
+
+                cuisine = input("Enter the number of your choice: \n").strip()
+
+                
