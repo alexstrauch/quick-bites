@@ -31,3 +31,16 @@
 10. [Deployment](#deployment)
 11. [Credits](#credits)
 12. [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+### Project description
+
+- The Quick Bites recipe generator is ideal for anyone looking to simplify their cooking experience, from novice cooks to seasoned chefs. It’s perfect for individuals who want to explore new cuisines, save their favorite recipes, and create meal plans without the hassle of browsing through endless websites or cookbooks.
+
+### Purpose
+
+- The intent of the Quick Bites recipe generator is to simplify meal planning and cooking by providing users with easy access to a variety of recipes based on their preferences. It empowers users to discover new dishes and store their own favorite recipes in a user-friendly command-line interface.
+
+[Back to table of contents](#table-of-contents)
+
