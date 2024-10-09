@@ -182,4 +182,10 @@ Your go-to app for discovering quick and delicious recipes.
             )
             generator.display_recipe(recipe)
 
-            
+            # Ask user if they want to continue using the app
+            while True:
+                continue_input = input(
+                    "Feelin' a bit peckish? (yes/no or type 'q' to quit): \n"
+                ).strip().lower()
+
+                
