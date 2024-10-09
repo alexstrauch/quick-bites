@@ -23,4 +23,11 @@ class RecipeGenerator:
             print(f"Error loading recipes: {e}\n")
             return []
 
-    
+    def save_recipes(self):
+        """
+        Saves the current recipe list to the
+        file specified by self.recipe_file.
+        """
+
+        with open(self.recipe_file, 'w') as file:
+            json.dump(self.recipes, file, indent=4)
