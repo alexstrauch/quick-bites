@@ -124,4 +124,8 @@ Your go-to app for discovering quick and delicious recipes.
 
         choice = input("Enter the number of your choice: \n").strip()
 
+        if choice.lower() == 'q':
+            print("Thank you for using Quick Bites. Goodbye!\n")
+            return
+        
         
