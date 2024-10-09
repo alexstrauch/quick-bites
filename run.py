@@ -83,4 +83,20 @@ class RecipeGenerator:
         else:
             print("No recipe found for the selected criteria.\n")
 
+def main():
+    """
+    Main entry point of the Quick Bites recipe generator.
+
+    This function implements a CLI menu to interact with the user.
+    The user can select from the following options:
+    1. Find a recipe: The user can select a meal type and cuisine type
+       and the app will display a random recipe that matches the criteria.
+    2. Add a new recipe: The user can enter the details of a new recipe
+       and the app will add it to the list of recipes.
+
+    The app will continue to run until the user chooses to quit.
+    """
+    recipe_file = 'recipes.json'
+    generator = RecipeGenerator(recipe_file)
+
     
