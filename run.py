@@ -206,4 +206,8 @@ Your go-to app for discovering quick and delicious recipes.
                 else:
                     print("Invalid. Enter 'yes', 'no', or 'q' to quit.\n")
 
-        
+        elif choice == '2':
+            # Add a new recipe
+            new_recipe = {}
+
+            
