@@ -193,4 +193,8 @@ Your go-to app for discovering quick and delicious recipes.
                     print("Thank you for using Quick Bites. Goodbye!\n")
                     return
 
+                # If user inputs 'yes' or 'y', continue the app loop
+                if continue_input in ['yes', 'y']:
+                    break
+
                 
