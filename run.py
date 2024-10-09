@@ -210,4 +210,7 @@ Your go-to app for discovering quick and delicious recipes.
             # Add a new recipe
             new_recipe = {}
 
+            # Guide the user through adding a new recipe with instructions
+            print("Please enter the following details for the new recipe:\n")
+
             
