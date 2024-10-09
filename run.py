@@ -188,4 +188,9 @@ Your go-to app for discovering quick and delicious recipes.
                     "Feelin' a bit peckish? (yes/no or type 'q' to quit): \n"
                 ).strip().lower()
 
+                # If user inputs 'q', exit the app
+                if continue_input == 'q':
+                    print("Thank you for using Quick Bites. Goodbye!\n")
+                    return
+
                 
