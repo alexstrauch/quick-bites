@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Avocado Toast",
+        "cuisine": "American",
+        "diet": "Vegan",
+        "meal_type": "Breakfast",
+        "ingredients": [
+            "2 slices of whole grain bread",
+            "1 ripe avocado",
+            "Salt",
+            "Pepper",
+            "Red chili flakes",
+            "Lemon juice"
+        ],
+        "instructions": "Toast the bread slices. Mash the avocado in a bowl and season with salt, pepper, chili flakes, and lemon juice. Spread on the toast and serve."
+    },
+    {
+        "name": "Vegan Pancakes",
+        "cuisine": "American",
+        "diet": "Vegan",
+        "meal_type": "Breakfast",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 tablespoon sugar",
+            "2 teaspoons baking powder",
+            "1/8 teaspoon salt",
+            "1 cup almond milk",
+            "2 tablespoons vegetable oil"
+        ],
+        "instructions": "Mix dry ingredients. Add wet ingredients and stir until smooth. Heat a pan and cook pancakes on both sides until golden."
+    },
+    {
+        "name": "Caprese Salad",
+        "cuisine": "Italian",
+        "diet": "Vegetarian",
+        "meal_type": "Lunch",
+        "ingredients": [
+            "2 large tomatoes",
+            "8 oz fresh mozzarella cheese",
+            "Fresh basil leaves",
+            "Olive oil",
+            "Balsamic vinegar",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": "Slice the tomatoes and mozzarella. Arrange them on a plate, alternating slices. Top with basil leaves. Drizzle with olive oil and balsamic vinegar, then season with salt and pepper."
+    }
+]
