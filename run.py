@@ -40,4 +40,16 @@ class RecipeGenerator:
         self.recipes.append(recipe)
         self.save_recipes()
 
+    def get_filtered_recipes(self, meal_type, cuisine_type):
+        """
+        Returns a list of recipes filtered by meal_type and cuisine_type.
+        The filters are case-insensitive.
+        """
+
+        return [
+            recipe for recipe in self.recipes
+            if recipe['meal_type'].lower() == meal_type.lower() and
+            recipe['cuisine'].lower() == cuisine_type.lower()
+        ]
+
     
