@@ -180,5 +180,6 @@ Your go-to app for discovering quick and delicious recipes.
                 selected_meal,
                 selected_cuisine_type
             )
+            generator.display_recipe(recipe)
 
             
