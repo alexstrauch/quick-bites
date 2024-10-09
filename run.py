@@ -99,4 +99,21 @@ def main():
     recipe_file = 'recipes.json'
     generator = RecipeGenerator(recipe_file)
 
-    
+    print("""
+
+▗▖ ▗▖▗▄▄▄▖▗▖    ▗▄▄▖ ▗▄▖ ▗▖  ▗▖▗▄▄▄▖    ▗▄▄▄▖▗▄▖
+▐▌ ▐▌▐▌   ▐▌   ▐▌   ▐▌ ▐▌▐▛▚▞▜▌▐▌         █ ▐▌ ▐▌
+▐▌ ▐▌▐▛▀▀▘▐▌   ▐▌   ▐▌ ▐▌▐▌  ▐▌▐▛▀▀▘      █ ▐▌ ▐▌
+▐▙█▟▌▐▙▄▄▖▐▙▄▄▖▝▚▄▄▖▝▚▄▞▘▐▌  ▐▌▐▙▄▄▖      █ ▝▚▄▞▘
+
+
+▗▄▄▄▖ ▗▖ ▗▖▗▄▄▄▖ ▗▄▄▖▗▖ ▗▖    ▗▄▄▖ ▗▄▄▄▖▗▄▄▄▖▗▄▄▄▖ ▗▄▄▖
+▐▌ ▐▌ ▐▌ ▐▌  █  ▐▌   ▐▌▗▞▘    ▐▌ ▐▌  █    █  ▐▌   ▐▌
+▐▌ ▐▌ ▐▌ ▐▌  █  ▐▌   ▐▛▚▖     ▐▛▀▚▖  █    █  ▐▛▀▀▘ ▝▀▚▖
+▐▙▄▟▙▖▝▚▄▞▘▗▄█▄▖▝▚▄▄▖▐▌ ▐▌    ▐▙▄▞▘▗▄█▄▖  █  ▐▙▄▄▖▗▄▄▞▘
+
+Welcome to the Quick Bites recipe generator!
+Your go-to app for discovering quick and delicious recipes.
+
+""")
+
