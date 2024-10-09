@@ -165,4 +165,14 @@ Your go-to app for discovering quick and delicious recipes.
 
                 cuisine = input("Enter the number of your choice: \n").strip()
 
-                
+                if cuisine.lower() == 'q':
+                    print("Thank you for using Quick Bites. Goodbye!\n")
+                    return
+
+                if cuisine.isdigit() and 1 <= int(cuisine) <= len(cuisines):
+                    selected_cuisine_type = list(cuisines)[int(cuisine) - 1]
+                    break
+                else:
+                    print("Invalid choice. Please try again.\n")
+
+            
