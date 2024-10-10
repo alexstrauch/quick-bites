@@ -171,6 +171,18 @@ No errors found.
 
 ## Deployment
 
+1.	Run the command pip3 freeze > requirements.txt in the terminal, then commit and push the changes to GitHub.
+2.	Log in to your Heroku account or sign up if you don’t have one.
+3.	In the top right corner, click the “New” button and choose “Create new app”.
+4.	Pick a name for your app, select your region, and click “Create app”.
+5.	Navigate to the “Settings” tab, then go to Config Vars and click “Reveal Config Vars”.
+6.	Add a Config Var with KEY = “PORT” and VALUE = “8000”.
+7.	Under Buildpacks, add Python (make sure it’s at the top) and Node.js beneath it.
+8.	Go to the “Deploy” section, select GitHub as the deployment method, and click “Connect to GitHub”.
+9.	Search for and connect the appropriate repository.
+10. Under "Manual deploy" click on "Deploy Branch".
+11. Once the app is built, click the “View” link to access it.
+
 [Back to table of contents](#table-of-contents)
 
 ## Credits
