@@ -26,12 +26,13 @@
 5. [Future features](#future-features)
 6. [Languages](#languages)
 7. [Technologies](#technologies)
-8. [Testing](#testing)
+8. [Libraries](#libraries)
+9. [Testing](#testing)
    - [Python validation](#python-validation)
-9. [Bugs](#bugs)
-10. [Deployment](#deployment)
-11. [Credits](#credits)
-12. [Acknowledgements](#acknowledgements)
+10. [Bugs](#bugs)
+11. [Deployment](#deployment)
+12. [Credits](#credits)
+13. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -147,6 +148,10 @@
 - CI Python Linter
 
 [Back to table of contents](#table-of-contents)
+
+## Libraries
+
+- json to load recipes & save new recipes
 
 ## Testing
 
