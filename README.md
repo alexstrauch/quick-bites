@@ -27,6 +27,7 @@
 6. [Languages](#languages)
 7. [Technologies](#technologies)
 8. [Testing](#testing)
+   - [Python validation](#python-validation)
 9. [Bugs](#bugs)
 10. [Deployment](#deployment)
 11. [Credits](#credits)
@@ -131,6 +132,14 @@
 - CI Python Linter
 
 ## Testing
+
+### Python validation
+
+<details>
+<summary>Validation with CI Python Linter</summary>
+No errors found.
+<img src="docs/python-linter.png">
+</details>
 
 ## Bugs
 
