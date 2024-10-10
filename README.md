@@ -27,6 +27,7 @@
 7. [Technologies](#technologies)
 8. [Libraries](#libraries)
 9. [Testing](#testing)
+   - [Test results](#test-results)
    - [Python validation](#python-validation)
 10. [Bugs](#bugs)
 11. [Deployment](#deployment)
@@ -314,7 +315,7 @@ User chooses quit option, receives goodbye message and exits the app.
 
 ## Testing
 
-### Quick Bites recipe generator test results
+### Test results
 
 | Test description                                   | Expected result                                                                 | Actual result                    | Status    |
 | ---------------------------------------------------| ------------------------------------------------------------------------------- | -------------------------------- | --------- |
