@@ -116,7 +116,19 @@
 
 ## Languages
 
+- Python
+
 ## Technologies
+
+- GitHub for the repository
+
+- Gitpod as the code editor
+
+- git for version control and pushing the code to GitHub
+
+- Heroku for deploying the project
+
+- CI Python Linter
 
 ## Testing
 
