@@ -102,4 +102,22 @@
 
 - As the site owner, I want to ensure that user-added recipes are stored securely and persistently, so users can access their data across multiple sessions.
 
+## Design
 
+## Features
+
+## Future features
+
+## Languages
+
+## Technologies
+
+## Testing
+
+## Bugs
+
+## Deployment
+
+## Credits
+
+## Acknowledgements
