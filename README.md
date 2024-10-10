@@ -119,6 +119,17 @@
 
 ## Features
 
+<details>
+<summary>Logo with slogan</summary>
+Printed above the menu options.
+<img src="docs/quick-bites-main-logo.jpg>
+</details>
+
+<details>
+<summary>Main menu</summary>
+Displays all options for the user at the start of the app.
+<img src="docs/quick-bites-main-menu.jpg">
+</details>
 
 
 [Back to table of contents](#table-of-contents)
