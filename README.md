@@ -49,3 +49,31 @@
 ### User demographic
 
 - This project is intended for anyone who wants a convenient way to manage recipes and enhance their cooking experience, regardless of their culinary skill level.
+
+### User goals
+
+- Discover new recipes
+
+- Simplify meal planning
+
+- Save and organize recipes
+
+- Experiment with different cuisines
+
+- Add personalized recipes
+
+### User expectations
+
+- A simple and easy to use command-line interface with clear instructions
+
+- Ability to quickly find and retrieve recipes based on their preferences
+
+- Customization for adding personal recipes 
+
+- Expectation that added recipes will be securely saved
+
+- Effective filtering of recipes by meal type, cuisine or diet without irrelevant results
+
+- Proper handling of errors, such as invalid inputs, with clear feedback
+
+
