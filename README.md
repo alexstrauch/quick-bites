@@ -120,61 +120,61 @@
 ## Features
 
 <details>
-<summary>Logo with slogan</summary>
+<summary>Logo with slogan (click me)</summary>
 Printed above the menu options.
-<img src="docs/quick-bites-main-logo.jpg>
+<img src="docs/quick-bites-main-logo.jpg">
 </details>
 
 <details>
-<summary>Main menu</summary>
+<summary>Main menu (click me)</summary>
 Displays all options for the user at the start of the app.
 <img src="docs/quick-bites-main-menu.jpg">
 </details>
 
 <details>
-<summary>Meal type option</summary>
+<summary>Meal type option (click me)</summary>
 Displays all meal type options for the user.
 <img src="docs/find-mealtype-option.png">
 </details>
 
 <details>
-<summary>Breakfast option</summary>
+<summary>Breakfast option (click me)</summary>
 Displays all breakfast options for the user.
 <img src="docs/find-breakfast-option.png">
 </details>
 
 <details>
-<summary>American breakfast option</summary>
+<summary>American breakfast option (click me)</summary>
 Displays the chosen recipe with ingredients and instructions.
 <img src="docs/breakfast-american-option.png">
 </details>
 
 <details>
-<summary>Continuation option</summary>
+<summary>Continuation option (click me)</summary>
 Asks user if he is still hungry. User chooses yes and the app loop starts again.
 <img src="docs/continuation-option.png">
 </details>
 
 <details>
-<summary>No option</summary>
+<summary>No option (click me)</summary>
 Asks user if he is still hungry. User chooses no, receives a goodbye message and exits the app.
 <img src="docs/no-option.png">
 </details>
 
 <details>
-<summary>Quit option at end</summary>
+<summary>Quit option at end (click me)</summary>
 Asks user if he is still hungry. User quits, receives a goodbye message and exits the app.
 <img src="docs/fr-quit-option-end.png">
 </details>
 
 <details>
-<summary>Quit option after meal type presentation</summary>
+<summary>Quit option after meal type presentation (click me)</summary>
 User chooses quit option, receives goodbye message and exits the app.
 <img src="docs/fr-quit-option-ab.png">
 </details>
 
 <details>
-<summary>Quit option after cuisine presentation</summary>
+<summary>Quit option after cuisine presentation (click me)</summary>
 User chooses quit option, receives goodbye message and exits the app.
 <img src="docs/fr-quit-option-ac.png">
 </details>
