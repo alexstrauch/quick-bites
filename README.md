@@ -105,6 +105,11 @@
 
 ## Design
 
+<details>
+<summary>ASCII art for logo (click me)</summary>
+<img src="docs/quick-bites-ascii-art.png">
+</details>
+
 ## Features
 
 ## Future features
@@ -136,7 +141,7 @@
 ### Python validation
 
 <details>
-<summary>Validation with CI Python Linter</summary>
+<summary>Validation with CI Python Linter (click me)</summary>
 No errors found.
 <img src="docs/python-linter.png">
 </details>
