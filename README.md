@@ -314,6 +314,28 @@ User chooses quit option, receives goodbye message and exits the app.
 
 ## Testing
 
+### Quick Bites recipe generator test results
+
+| Test description                                   | Expected result                                                                 | Actual result                    | Status    |
+| ---------------------------------------------------| ------------------------------------------------------------------------------- | -------------------------------- | --------- |
+| Load valid recipe file                             | Recipes should be loaded into the app from `recipes.json`.                      | Recipes loaded successfully.     | Pass      |
+| Load non-existent recipe file                      | App should show an error message indicating the file is not found.              | Error message displayed.         | Pass      |
+| Add new recipe                                     | Recipe should be added and saved to the `recipes.json` file.                    | Recipe added successfully.       | Pass      |
+| Get filtered recipes by meal type and cuisine      | Should return a list of recipes matching the specified meal and cuisine.        | List of recipes returned.        | Pass      |
+| Get random recipe (existing meal type and cuisine) | A random recipe matching the criteria should be displayed.                      | Recipe displayed.                | Pass      |
+| Get random recipe (non-existent meal type/cuisine) | App should display a message indicating no recipe found.                        | No recipe found message.         | Pass      |
+| Display recipe                                     | Displays recipe details correctly if found, otherwise shows a not found message.| Recipe details displayed.        | Pass      |
+| User quits the app                                 | The app should close with a farewell message.                                   | App closed successfully.         | Pass      |
+| Invalid input for meal type                        | App should prompt user again for valid input.                                   | Prompted for valid input.        | Pass      |
+| Invalid input for cuisine                          | App should prompt user again for valid input.                                   | Prompted for valid input.        | Pass      |
+| Add recipe with multiple ingredients               | Ingredients should be parsed and saved correctly.                               | Ingredients saved correctly.     | Pass      |
+| Add recipe with instructions                       | Instructions should be added and saved to the recipe.                           | Instructions saved successfully. | Pass      |
+| Save recipes                                       | Recipes should be correctly saved to `recipes.json`.                            | Recipes saved correctly.         | Pass      |
+| Get random recipe after adding new recipe          | Should still be able to get random recipe including the newly added recipe.     | Random recipe displayed.         | Pass      |
+| Handle empty recipe list                           | If no recipes exist, should return appropriate message when fetching recipes.   | No recipes message displayed.    | Pass      |
+| Repeatedly add recipes and save                    | Adding multiple recipes in sequence should maintain correct order and format.   | All recipes added and saved.     | Pass      |
+| Load recipes after adding new one                  | Ensure recipes are loaded correctly after adding a new one.                     | All recipes loaded correctly.    | Pass      |
+
 ### Python validation
 
 <details>
