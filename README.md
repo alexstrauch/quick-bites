@@ -20,6 +20,8 @@
    - [User stories](#user-stories)
 3. [Design](#design)
 4. [Features](#features)
+   - [Find a recipe](#find-a-recipe)
+   - [Add a recipe](#add-a-recipe)
 5. [Future features](#future-features)
 6. [Languages](#languages)
 7. [Technologies](#technologies)
@@ -119,6 +121,8 @@
 
 ## Features
 
+### Find a recipe
+
 <details>
 <summary>Logo with slogan (click me)</summary>
 Printed above the menu options.
@@ -178,6 +182,94 @@ User chooses quit option, receives goodbye message and exits the app.
 User chooses quit option, receives goodbye message and exits the app.
 <img src="docs/fr-quit-option-ac.png">
 </details>
+
+### Add a recipe
+
+<details>
+<summary>Add a new recipe option & enter recipe name (click me)</summary>
+User chooses to add a new recipe and is prompted to enter the recipe name or quit the app.
+<img src="docs/add-recipe-option.png">
+</details>
+
+<details>
+<summary>Enter cuisine name (click me)</summary>
+User gives his recipe a name and is prompted to enter the cuisine or quit the app.
+<img src="docs/add-recipe-cuisine-option.png">
+</details>
+
+<details>
+<summary>Enter diet type (click me)</summary>
+User enters the cuisine and is prompted to enter the diet type or quit the app.
+<img src="docs/add-recipe-diet-option.png">
+</details>
+
+<details>
+<summary>Enter meal type (click me)</summary>
+User enters the diet type and is prompted to enter the meal type or quit the app.
+<img src="docs/add-recipe-meal-option.png">
+</details>
+
+<details>
+<summary>Enter ingredients (click me)</summary>
+User enters the meal type and is prompted to enter the ingredients or quit the app.
+<img src="docs/add-recipe-ingredients-option.png">
+</details>
+
+<details>
+<summary>Enter instructions (click me)</summary>
+User enters the ingredients and is prompted to enter the instructions or quit the app.
+<img src="docs/add-recipe-instructions-option.png">
+</details>
+
+<details>
+<summary>Recipe successfully added (click me)</summary>
+User enters the instructions, receives a message that the recipe was successfully added and is brought back to the start of the app. Here he has the option to find a recipe, add a new recipe or quit the app.
+<img src="docs/add-recipe-success.png">
+</details>
+
+<details>
+<summary>Added recipe found (click me)</summary>
+User types his way through 
+<img src="docs/add-recipe-found.png">
+</details>
+
+<details>
+<summary>Quit option after recipe name (click me)</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/add-recipe-name-quit.png">
+</details>
+
+<details>
+<summary>Quit option after cuisine (click me)</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/add-recipe-cuisine-quit.png">
+</details>
+
+<details>
+<summary>Quit option after diet type (click me)</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/add-recipe-diet-quit.png">
+</details>
+
+<details>
+<summary>Quit option after meal type (click me)</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/add-recipe-meal-quit.png">
+</details>
+
+<details>
+<summary>Quit option after ingredients (click me)</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/add-recipe-ingredients-quit.png">
+</details>
+
+<details>
+<summary>Quit option after instructions (click me)</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/add-recipe-instructions-quit.png">
+</details>
+
+
 
 
 [Back to table of contents](#table-of-contents)
