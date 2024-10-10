@@ -103,6 +103,8 @@
 
 - As the site owner, I want to ensure that user-added recipes are stored securely and persistently, so users can access their data across multiple sessions.
 
+[Back to table of contents](#table-of-contents)
+
 ## Design
 
 <details>
@@ -110,7 +112,11 @@
 <img src="docs/quick-bites-ascii-art.png">
 </details>
 
+[Back to table of contents](#table-of-contents)
+
 ## Features
+
+[Back to table of contents](#table-of-contents)
 
 ## Future features
 
@@ -120,9 +126,13 @@
 
 - add option to print recipe from terminal
 
+[Back to table of contents](#table-of-contents)
+
 ## Languages
 
 - Python
+
+[Back to table of contents](#table-of-contents)
 
 ## Technologies
 
@@ -136,6 +146,8 @@
 
 - CI Python Linter
 
+[Back to table of contents](#table-of-contents)
+
 ## Testing
 
 ### Python validation
@@ -146,9 +158,15 @@ No errors found.
 <img src="docs/python-linter.png">
 </details>
 
+[Back to table of contents](#table-of-contents)
+
 ## Bugs
 
+[Back to table of contents](#table-of-contents)
+
 ## Deployment
+
+[Back to table of contents](#table-of-contents)
 
 ## Credits
 
@@ -162,4 +180,8 @@ No errors found.
 
 - [Using Python's enumerate()](https://realpython.com/python-enumerate/) from Real Python
 
+[Back to table of contents](#table-of-contents)
+
 ## Acknowledgements
+
+[Back to table of contents](#table-of-contents)
