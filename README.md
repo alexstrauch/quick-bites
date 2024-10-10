@@ -151,6 +151,8 @@
 
 - CI Python Linter
 
+- Affinity designer for flowchart
+
 [Back to table of contents](#table-of-contents)
 
 ## Libraries
