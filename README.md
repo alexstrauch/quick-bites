@@ -184,4 +184,6 @@ No errors found.
 
 ## Acknowledgements
 
+I would like to thank my mentor Gareth McGirr for his useful tips and keen insight.
+
 [Back to table of contents](#table-of-contents)
