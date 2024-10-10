@@ -232,7 +232,7 @@ Your go-to app for discovering quick and delicious recipes.
             new_recipe['cuisine'] = cuisine
 
             diet = input(
-                "Enter the diet type (e.g., 'Vegan', 'Gluten-Free', 'Paleo') "
+                "Enter the diet type (e.g., 'Vegan', 'Paleo') "
                 "or type 'q' to quit: \n"
             ).strip()
             if diet.lower() == 'q':
