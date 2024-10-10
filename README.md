@@ -131,6 +131,54 @@ Displays all options for the user at the start of the app.
 <img src="docs/quick-bites-main-menu.jpg">
 </details>
 
+<details>
+<summary>Meal type option</summary>
+Displays all meal type options for the user.
+<img src="docs/find-mealtype-option.png">
+</details>
+
+<details>
+<summary>Breakfast option</summary>
+Displays all breakfast options for the user.
+<img src="docs/find-breakfast-option.png">
+</details>
+
+<details>
+<summary>American breakfast option</summary>
+Displays the chosen recipe with ingredients and instructions.
+<img src="docs/breakfast-american-option.png">
+</details>
+
+<details>
+<summary>Continuation option</summary>
+Asks user if he is still hungry. User chooses yes and the app loop starts again.
+<img src="docs/continuation-option.png">
+</details>
+
+<details>
+<summary>No option</summary>
+Asks user if he is still hungry. User chooses no, receives a goodbye message and exits the app.
+<img src="docs/no-option.png">
+</details>
+
+<details>
+<summary>Quit option at end</summary>
+Asks user if he is still hungry. User quits, receives a goodbye message and exits the app.
+<img src="docs/fr-quit-option-end.png">
+</details>
+
+<details>
+<summary>Quit option after meal type presentation</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/fr-quit-option-ab.png">
+</details>
+
+<details>
+<summary>Quit option after cuisine presentation</summary>
+User chooses quit option, receives goodbye message and exits the app.
+<img src="docs/fr-quit-option-ac.png">
+</details>
+
 
 [Back to table of contents](#table-of-contents)
 
