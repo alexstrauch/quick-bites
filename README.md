@@ -108,6 +108,12 @@
 
 ## Future features
 
+- add more recipes
+
+- style the CLI different, add color to the text output and a fitting background image
+
+- add option to print recipe from terminal
+
 ## Languages
 
 ## Technologies
