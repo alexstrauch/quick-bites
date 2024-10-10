@@ -76,4 +76,30 @@
 
 - Proper handling of errors, such as invalid inputs, with clear feedback
 
+### User stories
+
+#### User
+
+- As a student, I want to filter recipes by meal type and dietary restrictions so I can find budget-friendly meals that fit my dietary needs.
+
+- As a home cook, I want to add and store my own family recipes in the app so I can access them easily whenever I need them.
+
+- As a busy professional, I want to quickly find a recipe for dinner based on a specific cuisine so I can cook a meal without spending too much time searching.
+
+- As a health-conscious individual, I want to explore vegan or gluten-free recipes for breakfast so I can plan my meals according to my diet.
+
+- As a culinary enthusiast, I want to get random recipe suggestions based on different cuisines so I can experiment with new flavors and techniques.
+
+#### Site owner
+
+- As the site owner, I want to provide users with an easy-to-use interface so they can quickly find, add, and save recipes without confusion or frustration.
+
+- As the site owner, I want to implement a robust filtering system so users can efficiently search recipes based on meal type, cuisine, and dietary preferences.
+
+- As the site owner, I want to include comprehensive error handling so users receive helpful feedback when encountering issues, such as invalid input or missing files.
+
+- As the site owner, I want to allow users to contribute their own recipes easily so the recipe database grows organically and reflects diverse user tastes.
+
+- As the site owner, I want to ensure that user-added recipes are stored securely and persistently, so users can access their data across multiple sessions.
+
 
