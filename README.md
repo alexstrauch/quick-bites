@@ -19,9 +19,6 @@
    - [User expectations](#user-expectations)
    - [User stories](#user-stories)
 3. [Design](#design)
-   - [Design choices](#design-choices)
-   - [Colors](#colors)
-   - [Layout](#layout)
 4. [Features](#features)
 5. [Future features](#future-features)
 6. [Languages](#languages)
@@ -122,6 +119,8 @@
 
 ## Features
 
+
+
 [Back to table of contents](#table-of-contents)
 
 ## Future features
@@ -157,6 +156,8 @@
 ## Libraries
 
 - json to load recipes & save new recipes
+
+[Back to table of contents](#table-of-contents)
 
 ## Testing
 
