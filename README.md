@@ -152,4 +152,14 @@ No errors found.
 
 ## Credits
 
+- [Text to ASCII art generator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) by Patrick Gillespie, used for the Quick Bites Logo
+
+- [json dump in Python](https://www.geeksforgeeks.org/json-dump-in-python/) from Geeks for Geeks
+
+- [How to use the json module in Python](https://www.freecodecamp.org/news/how-to-use-the-json-module-in-python/) from freeCodeCamp
+
+- [isdigit() method in Python](https://www.geeksforgeeks.org/python-string-isdigit-method/) from Geeks for Geeks
+
+- [Using Python's enumerate()](https://realpython.com/python-enumerate/) from Real Python
+
 ## Acknowledgements
