@@ -162,6 +162,11 @@ No errors found.
 
 ## Bugs
 
+| Bug                                                                                |Fix                                         |
+| -----------------------------------------------------------------------------------|--------------------------------------------|
+| When adding a new recipe there is an empty line above the input for the diet type  | Delete an example from the diet type input |
+| ASCII art for Quick Bites logo is too big for CLI                                  | Use different & smaller font for logo      |
+
 [Back to table of contents](#table-of-contents)
 
 ## Deployment
