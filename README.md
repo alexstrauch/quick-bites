@@ -14,7 +14,7 @@
    - [Project description](#project-description)
    - [Purpose](#purpose)
 2. [UX](#ux)
-   - [User demographic](#user-demo)
+   - [User demographic](#user-demographic)
    - [User goals](#user-goals)
    - [User expectations](#user-expectations)
    - [User stories](#user-stories)
