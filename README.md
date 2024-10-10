@@ -113,6 +113,11 @@
 <img src="docs/quick-bites-ascii-art.png">
 </details>
 
+<details>
+<summary>Flowchart (click me)</summary>
+<img src="docs/quick-bites-flowchart.jpg">
+</details>
+
 [Back to table of contents](#table-of-contents)
 
 ## Features
