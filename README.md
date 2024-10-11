@@ -311,6 +311,8 @@ User chooses quit option, receives goodbye message and exits the app.
 
 - json to load recipes & save new recipes
 
+- random to randomly select a recipe
+
 [Back to table of contents](#table-of-contents)
 
 ## Testing
